@@ -1,4 +1,4 @@
- ![MasterHead](https://www.agilitypr.com/wp-content/uploads/2022/04/innovation.jpg)
+ ![MasterHead](https://github.com/balciemirhan/README.md/assets/116453429/f8a0cac5-07df-4666-95e4-5f70ef414c0e)
 <h1 align="center">Hi 👋, I'm Emirhan Balci</h1>
 <h3 align="center">I'm a Software Developer.</h3>
 
