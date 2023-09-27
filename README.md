@@ -1,4 +1,4 @@
- ![1](https://github.com/balciemirhan/balciemirhan/assets/116453429/df8ffc74-1819-4da5-a099-9296b3f83a91)
+![1](https://github.com/balciemirhan/balciemirhan/assets/116453429/5829410e-0ed4-42b1-bba6-fcf27e9e43a6)
 
 <h1 align="center">Hi 👋, I'm Emirhan Balci</h1>
 <h3 align="center">I'm a Software Developer.</h3>
