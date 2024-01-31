@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning Flutter and C#.
 
-- 💬 Ask me about Flutter,C# and JS. 
+- 💬 Ask me about Flutter, C# and JS. 
 
 - 📫 How to reach me **balciemirhan@hotmail.com**
 
