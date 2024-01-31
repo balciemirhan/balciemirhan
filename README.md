@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently working on mobile application with Flutter.
   
-- 🌱 I’m currently learning Flutter and Adobe Photoshop.
+- 🌱 I’m currently learning Flutter and C#.
 
-- 💬 Ask me about Javascript, SEO, Adobe Photoshop and digital marketing. 
+- 💬 Ask me about Flutter,C# and JS. 
 
 - 📫 How to reach me **balciemirhan@hotmail.com**
 
