@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Emirhan Balci</h1>
 <h3 align="center">I'm a Software Developer.</h3>
 
-- 🔭 I'm currently working on mobile application with Flutter.
+- 🔭 I'm developing mobile applications using Flutter and React Native technologies.
   
-- 🌱 I’m currently learning Flutter and C#.
+- 🌱 I’m currently learning Flutter and React Native.
 
-- 💬 Ask me about Flutter, C# and JS. 
+- 💬 Ask me about Flutter, React Native, C# and JS. 
 
 - 📫 How to reach me **balciemirhan@hotmail.com**
 
