@@ -33,7 +33,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/BootStrap-%237952B3?style=for-the-badge&logo=BootStrap&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/%20Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft SQL Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&labelColor=black">
