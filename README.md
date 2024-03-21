@@ -1,7 +1,8 @@
+<p align = "right" ><img width="200" alt="moon" src="https://github.com/balciemirhan/balciemirhan/assets/116453429/46fdfef0-0199-46c0-9ec6-3d7ba2f96a00"> <p>
+  
 <h1 align="center"  >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=H%F0%9F%91%8B%2C+I'm+Emirhan+Balc%C4%B1;I'm+a+Software+Developer%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
-
 
 - 🔭 I'm developing mobile applications using Flutter and React Native technologies.
   
@@ -19,6 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p>
   
 <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&labelColor=black">
@@ -35,14 +37,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/%20PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/FireBase-%23FFCA28?style=for-the-badge&logo=Firebase&labelColor=black">
 
-
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balciemirhan&theme=tokyonight&layout=compact)
 
 </p>
+
 
 
 
