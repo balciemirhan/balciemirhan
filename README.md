@@ -1,11 +1,5 @@
-![github-space](https://github.com/balciemirhan/balciemirhan/assets/116453429/908a829d-1bbb-4146-b2bd-a68cb74be6af)
-
 <h1 align="center">Hi 👋, I'm Emirhan Balci</h1>
 <h3 align="center">I'm a Software Developer.</h3>
-
-
-
-
 
 
 - 🔭 I'm developing mobile applications using Flutter and React Native technologies.
