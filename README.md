@@ -26,6 +26,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&labelColor=black">
