@@ -37,7 +37,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/%20PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/FireBase-%23FFCA28?style=for-the-badge&logo=Firebase&labelColor=black">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balciemirhan&theme=tokyonight&layout=compact)
+
 
 </p>
 
