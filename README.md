@@ -3,10 +3,8 @@
 </h1>
 
 - 🔭 I'm developing mobile applications using Flutter and React Native technologies.
-  
-- 🌱 I’m currently learning Flutter and React Native.
-
-- 💬 Ask me about Flutter, React Native, C# and JS. 
+ 
+- 💬 Ask me about React Native, React, Flutter, Express.js and GO. 
 
 - 📫 How to reach me **balciemirhan@hotmail.com**
 
