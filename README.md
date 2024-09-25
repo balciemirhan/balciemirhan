@@ -20,16 +20,27 @@
 
 <p>
   
-<img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&labelColor=black">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&labelColor=black">
+
+
+
+
+
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&labelColor=black">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/BootStrap-%237952B3?style=for-the-badge&logo=BootStrap&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft SQL Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/%20PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black">
