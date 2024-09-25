@@ -45,6 +45,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft SQL Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/%20PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/FireBase-%23FFCA28?style=for-the-badge&logo=Firebase&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/pocketbase-%23B8DBE4?style=for-the-badge&logo=pocketbase&labelColor=black">
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balciemirhan&theme=tokyonight&layout=compact)
 
