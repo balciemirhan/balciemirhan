@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/1d1bc3e6-1357-4f35-bb7a-fb201633050a" alt="Profil Resmi" width="1280" height="720">
+
  <h1 align="center"  >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=H%F0%9F%91%8B%2C+I'm+Emirhan+Balc%C4%B1;I'm+a+Software+Developer%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
