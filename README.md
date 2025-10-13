@@ -55,6 +55,6 @@
 </p>
 
 
-
+<img src="https://github.com/user-attachments/assets/1e8fe8e5-f5bf-46c7-81c7-8e86eda6909c" alt="Açıklama" width="300" height="300">
 
 
